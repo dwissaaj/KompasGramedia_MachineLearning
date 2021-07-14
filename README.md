@@ -1,1 +1,1 @@
-This is my analyst based on fake data and using K mean Clustering to Understand how customer segmentation happen.
+This is my analyst based on fake data but all data is still related to Gramedia Persona(Demography,pyshography and purchase intent.Data is created by Mockaro and a few of them generate by Randbetween in Excel.I am using K mean Clustering to Understand how customer segmentation happen.
